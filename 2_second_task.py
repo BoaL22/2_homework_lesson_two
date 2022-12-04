@@ -10,5 +10,5 @@ while i <= num:
     i += 1
     print(sum)
 
-print(f'Произведение чисел от 1 до {num} = {sum}')
+print(f'The product of numbers from 1 to {num} = {sum}')
 
